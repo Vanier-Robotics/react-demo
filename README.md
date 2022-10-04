@@ -8,6 +8,16 @@
 - Follow the prompt given below. This exercise is quite autodidactic. Refer to the resources posted in the <a href="https://discord.com/channels/944754048622538783/944936753838579773/1023429320372392018" target="_blank">Discord channel</a>. If you get stuck or need help, contact me.
 
 ## Prompt
+You are given a mockup and a technical sheet. 
+
+Your job is to:
+1. Recreate the mockup as authentically as possible (should be identical)
+2. Try to use flexbox in your CSS as much as possible 
+3. Implement the stopwatch functionality (Advanced)
+
+Mockup (open in new tab): ![image](https://user-images.githubusercontent.com/34781348/193927086-b62cc2da-2db5-43d8-86ac-786b4e28b32e.png)
+
+Technical Sheet (open in new tab): ![image](https://user-images.githubusercontent.com/34781348/193927136-e0a939ab-2265-47da-aaea-52e467e06f5f.png)
 
 ## Available Scripts
 
