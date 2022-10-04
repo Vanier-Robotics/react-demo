@@ -1,4 +1,5 @@
 # react-demo
+A demo to learn the basics of React
 
 ## Instructions
 - <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository" target="_blank">Fork</a> this repository
