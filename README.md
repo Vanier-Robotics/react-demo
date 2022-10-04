@@ -21,6 +21,8 @@ Mockup (open in new tab): ![image](https://user-images.githubusercontent.com/347
 
 Technical Sheet (open in new tab): ![image](https://user-images.githubusercontent.com/34781348/193927136-e0a939ab-2265-47da-aaea-52e467e06f5f.png)
 
+Figma: https://www.figma.com/file/TsbW82b20aQxsK7fjIwXCG/React-Demo
+
 ## Available Scripts
 
 In the project directory, you can run:
