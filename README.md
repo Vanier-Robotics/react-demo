@@ -14,6 +14,7 @@ You are given a mockup and a technical sheet.
 Your job is to:
 1. Recreate the mockup as authentically as possible (should be identical)
     * Try to use flexbox in your CSS as much as possible 
+    * Avoid absolute positioning or use of margin for positioning
     * Use components! Create at least a component for the buttons
 2. Implement the stopwatch functionality (Advanced)
 
