@@ -9,7 +9,7 @@ A demo to learn the basics of React
 - Follow the prompt given below. This exercise is quite autodidactic. Refer to the resources posted in the <a href="https://discord.com/channels/944754048622538783/944936753838579773/1023429320372392018" target="_blank">Discord channel</a>. If you get stuck or need help, contact me.
 
 ## Prompt
-You are given a mockup and a technical sheet. 
+You are given a barebones React project, a mockup and a technical sheet. 
 
 Your job is to:
 1. Recreate the mockup as authentically as possible (should be identical)
